@@ -1,4 +1,5 @@
 Freelancer Job Postings Analysis
+
 📌 Project Overview
 This project analyzes a dataset of freelancer job postings to uncover insights about job titles, client behavior, pricing, and tags. The workflow includes data preprocessing, exploratory data analysis (EDA), visualization, and dimensionality reduction (PCA).
 
